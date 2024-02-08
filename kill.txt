@@ -1,2 +1,6 @@
 hi  amit hosmani 
 toady we have learnt abt git 
+
+
+
+i want to revert it 
